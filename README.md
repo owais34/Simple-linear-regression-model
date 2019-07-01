@@ -14,5 +14,3 @@ https://realpython.com/installing-python/
 
 If you are working on an ipython notebook you'll need to have numpy,pandas and matplotlib installed.
 
-
-
